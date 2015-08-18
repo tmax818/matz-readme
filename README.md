@@ -10,7 +10,7 @@
 
 ## What is Ruby and Where Did it Come From?
 
-Ruby is a dynamic object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. Matsumoto, often referred to as "Matz", first developed the idea for Ruby in the early 1990s. From Mat'z post to the *ruby-talk* mailing list in 1999:
+Ruby is a dynamic object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan. Matsumoto, often referred to as "Matz", first developed the idea for Ruby in the early 1990s. From Matz's post to the *ruby-talk* mailing list in 1999:
 
 >I was talking with my colleague about the possibility of an object-oriented scripting language. I knew Perl (Perl4, not Perl5), but I didn't like it really, because it had the smell of a toy language (it still has). The object-oriented language seemed very promising. I knew Python then. But I didn't like it, because I didn't think it was a true object-oriented language — OO features appeared to be add-on to the language. As a language maniac and OO fan for 15 years, I really wanted a genuine object-oriented, easy-to-use scripting language. I looked for but couldn't find one. So I decided to make it.
 
