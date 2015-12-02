@@ -28,3 +28,5 @@ and:
 
 The Ruby community is characterized by respect for one another and a love of programming. Rubyists have a saying: "Matz is nice, so we are nice", or **MINSWAN**. Matz made a nice language to please programmers. Matz is nice to programmers, so we are nice to each other. The Learn community takes this principle to heart. We respect one another and the hard work that we are doing to learn how to code. We support one another to overcome obstacles to our learning. When another Learner asks a question, we answer, if we can, respectfully and with a positive attitude and we don't judge or criticize each other or the work that we're doing. Learning to code, which you're doing here and will continue to do over the entire course of your programming life, is hard. We don't want to make it even harder on each other by failing to adhere to the MINSWAN principle. Remember, we are all on a journey to learn to love to code together. 
 
+
+<a href='https://learn.co/lessons/matz-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
