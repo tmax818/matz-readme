@@ -31,3 +31,4 @@ The Ruby community is characterized by respect for one another and a love of pro
 You can read more about [why we teach ruby](https://medium.com/learn-love-code/why-teach-ruby-bac8416c77ba).
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/matz-readme' title='MINSWAN: Matz and the Ruby Language'>MINSWAN: Matz and the Ruby Language</a> on Learn.co and start learning to code for free.</p>
+
